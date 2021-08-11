@@ -1,15 +1,15 @@
 # Air Camboard
 
-Seguimiento de color para generar tablero en cámara.
+Color tracking to generate board on camera.
 
 ## Uso
 
-1. Ejecutar script.
+1. Run script.
 ```
 python aircamboard.py
 ```
-2. Utilizar cualquier objeto azul como herramienta de dibujo (Se recomienda utilizar un papel pintado, en la punta de un lápiz común).
-3. Seleccionar colores para dibujar o limpiar.
+2. Use any blue object as a drawing tool (It is recommended to use a colored paper, on the tip of a common pencil).
+3. Select colors to draw or clean.
 
 ## Demo
 
